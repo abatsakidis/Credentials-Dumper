@@ -14,7 +14,6 @@ Use this software for educational purposes only!
 
 ## Tested on ##
 
-**Word**: Microsoft Excel 2013<br>
 **OS**: Windows 10 x86_64 <br>
 **CPU**: Intel 2 Quad Q6600 (4) @ 2.400GHz <br>
 **Memory**: 4085MB <br>
